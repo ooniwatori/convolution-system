@@ -13,9 +13,9 @@ Application would show result of covolution.<br />
 
 **Image processing**<br />
 Choose filter first. Then select image which you want to process.<br />
-![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo2-1.png)<br />
+![image](https://github.com/ooniwatori/convolution-system/blob/main/demo2/demo2-1.png)<br />
 Application would show result of processing.Also you can change parameters at real time in some filter.<br />
-![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo2-2.png)<br />
+![image](https://github.com/ooniwatori/convolution-system/blob/main/demo2/demo2-2.png)<br />
 
 # Features
 
