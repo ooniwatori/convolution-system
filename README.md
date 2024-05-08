@@ -14,5 +14,5 @@ Also you can use function 2 to compute some kernels convolution results with ima
 # Environments 
 
 * Language Java SDK 17.0.1
-* Compiler [JavaFX](https://www.oracle.com/java/technologies/javase/javafx-overview.html), [Eclipse](https://www.eclipse.org/).
+* Compiler [Eclipse](https://www.eclipse.org/).
 * OS Microsoft Windows10 pro
