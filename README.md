@@ -3,19 +3,19 @@ An application for simulating convolution apply on serial data and image data.
 
 # DEMO
 
-**Basic Function**<br />
+**Basic Function**<br /><br />
 Choose input signal first. It allows auto generating or input by user. Then select applying system wave.<br />
 ![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-1.png)<br />
-![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-2.png)
+![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-2.png)<br />
 
 Application would show result of covolution.<br />
-![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-3.png)<br />
+![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-3.png)<br /><br />
 
-**Image processing**<br />
+**Image processing**<br /><br />
 Choose filter first. Then select image which you want to process.<br />
 ![image](https://github.com/ooniwatori/convolution-system/blob/main/demo2/demo2-1.png)<br />
 Application would show result of processing.Also you can change parameters at real time in some filter.<br />
-![image](https://github.com/ooniwatori/convolution-system/blob/main/demo2/demo2-2.png)<br />
+![image](https://github.com/ooniwatori/convolution-system/blob/main/demo2/demo2-2.png)<br /><br />
 
 # Features
 
