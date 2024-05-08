@@ -8,7 +8,8 @@ You can equaliza a pgm image and analyz by selcet image in your pc.
 
 # Features
 
-Equalization_cpp can show result with gray level hitogram analyzing.
+Application can simulate two serial datas convolution results in function 1.
+Also you can use function 2 to compute some kernels convolution results with image data.
 
 # Environments 
 
