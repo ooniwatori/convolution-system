@@ -5,12 +5,12 @@ An application for simulating convolution apply on serial data and image data.
 
 You can equaliza a pgm image and analyz by selcet image in your pc.
 
-Choose input signal. It allows auto generating or input by user. Then select applying system wave.
-![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-1.png)
+Choose input signal. It allows auto generating or input by user. Then select applying system wave./br
+![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-1.png)/br
 ![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-2.png)
 
-Application would show result of covolution.
-![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-3.png)
+Application would show result of covolution./br
+![image](https://github.com/ooniwatori/convolution-system/blob/main/demo1/demo1-3.png)/br
 
 # Features
 
